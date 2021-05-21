@@ -1,2 +1,3 @@
 thamos
 micropipenv[toml]
+yaspin==1.4.0
